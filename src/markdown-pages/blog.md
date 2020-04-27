@@ -3,8 +3,6 @@ title: "My Journey To Web Development"
 date: "2020-04-27"
 ---
 
-### My journey to web development.
-
 Hi all,
 
 I’m Philippe, a recently graduated Molecular Nutrition & Health student based in Luxembourg. I’ve been following Andrei’s courses for over a year now and have been meaning to introduce myself to this wonderful community a while ago but never quite got round to it. But now with the recent weeks of confinement I thought this may be a great opportunity to get acquainted with you all.
