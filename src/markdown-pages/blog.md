@@ -3,13 +3,13 @@ title: "My Journey To Web Development"
 date: "2020-04-27"
 ---
 
-### A reflection on the past two years
+### Thoughts on switching career
 
 Hi all,
 
 I’m Philippe, a recently graduated Molecular Nutrition & Health student based in Luxembourg. I’ve been following Andrei’s courses for over a year now and have been meaning to introduce myself to this wonderful community a while ago but never quite got round to it. But now with the recent weeks of confinement I thought this may be a great opportunity to get acquainted with you all.
 
-I’d also like to share with you my own experience of changing career path from what I had initially studied. I would be interested to hear your journey in changing careers / pursuing a career in tech and use this post as an incentive to learn from each other and create meaningful interactions that would benefit us in the long run. Given these recent times of crisis I think that the need to do this has been stronger than ever before. Also, for anyone just starting off and in need of a motivation boost, I think sharing these stories will help in realising that although the road is tough, it is far from impossible to achieve.
+I’d also like to share with you my own experience of changing career path from what I had initially studied. I would be interested to hear your journey in changing careers / pursuing a tech career and use this post as an incentive to learn from each other and create meaningful interactions that would benefit us in the long run. Given these recent times of crisis I think that the need to do this has been stronger than ever before. Also, for anyone just starting off and in need of a motivation boost, I think sharing these stories will help in realising that although the road is tough, it is far from impossible to achieve.
 
 Two years ago I graduated from my study in Nutrition & Health and experienced as most of you will probably know, a mixed feeling of excitement and anxiety when we are all confronted with that same question - what am I going to do next? For some this may be a self-evident question - you study what you love and hence you will pursue a career in what you have studied. But for others the question becomes a little bit more complicated to answer when you thought you enjoyed what you were studying, but end up at the end of the road realising this is not the career path you had envisioned when initially applying for it as a study. I experienced the latter, and though it was a difficult experience when it actually happened, the lessons learnt from it will be with me for a lifetime.
 
